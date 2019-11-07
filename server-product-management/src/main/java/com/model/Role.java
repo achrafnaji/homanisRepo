@@ -1,4 +1,4 @@
-package com.spm.model;
+package com.model;
 
 public enum Role {
 
